@@ -44,8 +44,6 @@
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 			</Item>
 			<Item Name="Settings.lvclass" Type="LVClass" URL="../../Settings/Settings.lvclass"/>
-			<Item Name="sendAllMessages.vi" Type="VI" URL="../TCPServer/sendAllMessages.vi"/>
-			<Item Name="communicatorManager.vi" Type="VI" URL="../TCPServer/communicatorManager.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
