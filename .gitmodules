@@ -1,0 +1,3 @@
+[submodule "common_serialprotocols"]
+	path = common_serialprotocols
+	url = https://aanania@stash.lsstcorp.org/scm/ts/common_serialprotocols.git
